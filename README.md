@@ -3,7 +3,7 @@ Nudge!
 ------
 
 Brief:  
-Nudge the active window with hotkeys [Ctrl]+[Alt](+[Shift]) & [Arrow Keys]
+Nudge the active window with hotkeys [Ctrl]+ [Alt](+[Shift]) & [Arrow Keys]
 
 Usage:  
 Launch script (personally: with Launchy)  
